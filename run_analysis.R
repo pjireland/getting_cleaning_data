@@ -6,11 +6,11 @@
 # Due: January 31, 2016                      #
 ##############################################
 #
-# This script was run using R version 3.2.3 Patched (2015-12-17 r69782) 
+# This script was run using 
 # R version 3.2.3 Patched (2015-12-17 r69782)
 # Platform: x86_64-apple-darwin10.8.0 (64-bit)
-# Running under: OS X 10.10.5 (Yosemite)
-# It uses two libraries: dplyr_0.4.3 and magrittr_1.5
+# Running under: OS X 10.10.5 (Yosemite).
+# It uses two libraries: dplyr_0.4.3 and magrittr_1.5.
 #
 # The project assignment is given below.
 #
