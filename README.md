@@ -21,7 +21,7 @@ The script was run using<br/>
 <code>R version 3.2.3 Patched (2015-12-17 r69782)</code><br/>
 <code>Platform: x86_64-apple-darwin10.8.0 (64-bit)</code><br/>
 <code>Running under: OS X 10.10.5 (Yosemite)</code>.<br/>
-It uses two libraries: <code>dplyr_0.4.3</code> and <code>magrittr_1.5</code>
+It uses two libraries: <code>dplyr_0.4.3</code> and <code>magrittr_1.5</code>.
 
 
 
